@@ -1,22 +1,24 @@
-[
-  {
-    "id": 1,
-    "title": "Sunglasses"
-  },
-  {
-    "id": 2,
-    "title": "Blue Light"
-  },
-  {
-    "id": 3,
-    "title": "Photochromic"
-  },
-  {
-    "id": 4,
-    "title": "Sport Glasses"
-  },
-  {
-    "id": 5,
-    "title": "Kids Glasses"
-  }
-]
+{
+   "categories":[
+      {
+        "id": 1,
+        "title": "Sunglasses"
+      },
+      {
+        "id": 2,
+        "title": "Blue Light"
+      },
+      {
+        "id": 3,
+        "title": "Photochromic"
+      },
+      {
+        "id": 4,
+        "title": "Sport Glasses"
+      },
+      {
+        "id": 5,
+        "title": "Kids Glasses"
+      }
+  ]
+}
