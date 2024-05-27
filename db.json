@@ -1,24 +1,369 @@
 {
-   "categories":[
-      {
+   "categories": [
+        {
         "id": 1,
-        "title": "Sunglasses"
-      },
-      {
+        "title": "Sunglasses",
+         "image": "https://i.pinimg.com/564x/b6/2b/18/b62b18a595f6967bc8811c632314fdc8.jpg"
+        },
+        {
         "id": 2,
-        "title": "Blue Light"
-      },
-      {
+        "title": "Blue Light",
+        "image": "https://i.pinimg.com/564x/c4/86/ab/c486ab679a020083bfecf2e110e7db7c.jpg"
+        },
+        {
         "id": 3,
-        "title": "Photochromic"
-      },
-      {
+        "title": "Photochromic",
+        "image": "https://i.pinimg.com/564x/78/eb/83/78eb83492e12ed46acd73e07f8078dab.jpg"
+        },
+        {
         "id": 4,
-        "title": "Sport Glasses"
-      },
-      {
+        "title": "Sport Glasses",
+        "image": "https://i.pinimg.com/564x/0f/ab/fb/0fabfb808b7e0243514d4a050cd3665d.jpg"
+        },
+        {
         "id": 5,
-        "title": "Kids Glasses"
-      }
-  ]
+        "title": "Kids Glasses",
+        "image": "https://i.pinimg.com/564x/ff/f1/7c/fff17cb0a3cf11b55641164c0d30762e.jpg"
+        }
+    ],
+
+    "products": [
+        {
+            "id": 1,
+            "title": "Prada / PR 17WS",
+            "description": "The hallmark styling of this world-renowned fashion leader denotes high quality with a dedication to innovation and a strong tradition of craftsmanship. Prada is synonymous with an understated style that has always anticipated, and often dictated, new trends. Prada sunglasses use only the finest materials to strike the ideal balance of form and function.",
+            "price": 376.00,
+            "images": ["https://acesse.dev/g6UrO", "https://l1nq.com/KhwDK", "https://l1nq.com/LzAD6"], 
+            "category_id": 1
+        },
+        {
+            "id": 2,
+            "title": "Versace / VE4425U",
+            "description": "Versace is distinguished by its strength of character, innovative use of new, unexpected materials, and varying style of inspiration and performance. The Versace sunglass collection is an elegantly designed line of distinctive eyewear available in unisex designs for those who choose to express their strength, confidence, and uniqueness through a bold and distinctive personal style.",
+            "price": 179.20,
+            "images": ["https://l1nq.com/facNf", "https://l1nq.com/Vgg01", "https://acesse.dev/CiHIh"], 
+            "category_id": 1
+        },
+        {
+            "id": 3,
+            "title": "Miu Miu / MU 04ZS",
+            "description": "Created in 1992, Miu Miu is the most unrestrained portrayal of Miuccia Prada's creativity. Miu Miu conveys a sense of freedom and an ever-young feeling as a state of mind.",
+            "price": 341.00,
+            "images": ["https://encr.pw/kffVH", "https://l1nq.com/tc7Ud", "https://l1nq.com/ueqJ9"], 
+            "category_id": 1
+        },
+        {
+            "id": 4,
+            "title": "Prada / PR A07S",
+            "description": "The hallmark styling of this world-renowned fashion leader denotes high quality with a dedication to innovation and a strong tradition of craftsmanship. Prada is synonymous with an understated style that has always anticipated, and often dictated, new trends. Prada sunglasses use only the finest materials to strike the ideal balance of form and function.",
+            "price": 396.00,
+            "images": ["https://acesse.dev/vaFg0", "https://acesse.dev/BtRRD", "https://encr.pw/rc74D", "https://acesse.dev/8zSrC"], 
+            "category_id": 1
+        },
+        {
+            "id": 5,
+            "title": "Prada / PR A12S",
+            "description": "The hallmark styling of this world-renowned fashion leader denotes high quality with a dedication to innovation and a strong tradition of craftsmanship. Prada is synonymous with an understated style that has always anticipated, and often dictated, new trends. Prada sunglasses use only the finest materials to strike the ideal balance of form and function.",
+            "price": 355.00,
+            "images": ["https://encr.pw/8Hesd", "https://l1nq.com/Lu9hU", "https://l1nq.com/jPVhH", "https://encr.pw/u0TT1"], 
+            "category_id": 1
+        },
+        {
+            "id": 6,
+            "title": "Miu Miu / MU 52YS",
+            "description": "Created in 1992, Miu Miu is the most unrestrained portrayal of Miuccia Prada's creativity. Miu Miu conveys a sense of freedom and an ever-young feeling as a state of mind.",
+            "price": 360.00,
+            "images": ["https://acesse.dev/puKtK", "https://acesse.dev/eiGYk", "https://acesse.dev/YR4pb"], 
+            "category_id": 1
+        },
+        {
+            "id": 7,
+            "title": "Tiffany & Co. / TF4217",
+            "description": "The hallmark styling of this world-renowned fashion leader denotes high quality with a dedication to innovation and a strong tradition of craftsmanship. Prada is synonymous with an understated style that has always anticipated, and often dictated, new trends. Prada sunglasses use only the finest materials to strike the ideal balance of form and function.",
+            "price": 178.00,
+            "images": ["", "", ""], 
+            "category_id": 1
+        },
+        {
+            "id": 8,
+            "title": "Versace / VE2263",
+            "description": "Versace is distinguished by its strength of character, innovative use of new, unexpected materials, and varying style of inspiration and performance. The Versace sunglass collection is an elegantly designed line of distinctive eyewear available in unisex designs for those who choose to express their strength, confidence, and uniqueness through a bold and distinctive personal style.",
+            "price": 327.00,
+            "images": ["https://l1nq.com/HnNYT", "https://acesse.dev/W60qm", "https://l1nq.com/yvotX"], 
+            "category_id": 1
+        },
+        {
+            "id": 9,
+            "title": "CHANEL / CH5519",
+            "description": "Discover luxury and style with Chanel sunglasses. The finest materials offer exceptional quality and timeless elegance.",
+            "price": 438.00,
+            "images": ["https://acesse.dev/R84Y6", "https://acesse.dev/BaHKe", "https://encr.pw/TJWZJ"], 
+            "category_id": 1
+        },
+        {
+            "id": 10,
+            "title": "Miu Miu / MU 11WS",
+            "description": "Created in 1992, Miu Miu is the most unrestrained portrayal of Miuccia Prada's creativity. Miu Miu conveys a sense of freedom and an ever-young feeling as a state of mind.",
+            "price": 341.00,
+            "images": ["https://l1nq.com/FT6ZD", "https://encr.pw/WDknp", "https://acesse.dev/dMzmi"], 
+            "category_id": 1
+        },
+        {
+            "id": 11,
+            "title": "Ray-Ban / RB4171",
+            "description": "Discover Brand New Arrivals & Exclusive Promo on Ray-Ban official store and get the perfect shades to complete your look. Free shipping and returns.",
+            "price": 139.00,
+            "images": ["https://encr.pw/BWqdO", "https://l1nq.com/9jVrl", "https://l1nq.com/1vumU"], 
+            "category_id": 1
+        },
+        {
+            "id": 12,
+            "title": "Dolce&Gabbana / DG4450",
+            "description": "Craftsmanship, refinement and timeless elegance: the Dolce&Gabbana Sunglasses stand out for their unmistakable style, where attention to detail and quality of materials are combined with Made in Italy creativity.",
+            "price": 256.00,
+            "images": ["https://l1nq.com/33d2c", "https://l1nq.com/4PEZB", "https://l1nq.com/a3uhx"], 
+            "category_id": 1
+        },
+        {
+            "id": 13,
+            "title": "Burberry / BE4405",
+            "description": "Burberry, British luxury since 1856. A global brand with a rich British heritage.Founded in 1856 and underpinnedby a passion for the outdoors,the brand epitomises modern British luxury and is known for its iconic house codes and signature pieces.Guided by Chief Creative Officer Daniel Lee.",
+            "price": 156.00,
+            "images": ["https://acesse.dev/Y9MZ6", "https://l1nq.com/CBT1f", "https://encr.pw/N2Uo1"], 
+            "category_id": 1
+        },
+
+
+
+
+
+        {
+            "id": 14,
+            "title": "RAY-BAN / RB3857",
+            "description": "Born out of necessity in 1937, Ray-ban has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves.",
+            "price": 140.00,
+            "images": ["https://encr.pw/YeqPh", "https://encr.pw/TAPKk", "https://l1nq.com/ZuYnn"], 
+            "category_id": 2
+        },
+        {
+            "id": 15,
+            "title": "RAY-BAN / RB4171",
+            "description": "Born out of necessity in 1937, Ray-ban has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves.",
+            "price": 91.00,
+            "images": ["https://encr.pw/sdHlh", "https://l1nq.com/CSmcK", "https://encr.pw/Qls06"], 
+            "category_id": 2
+        },
+        {
+            "id": 16,
+            "title": "RAY-BAN / RB2186",
+            "description": "Born out of necessity in 1937, Ray-ban has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves.",
+            "price": 153.60,
+            "images": ["https://encr.pw/aexYX", "https://encr.pw/JCyJx", "https://acesse.dev/B6O9q"], 
+            "category_id": 2
+        },
+        {
+            "id": 17,
+            "title": "PRADA / PR 57YS",
+            "description": "The hallmark styling of this world-renowned fashion leader denotes high quality with a dedication to innovation and a strong tradition of craftsmanship. Prada is synonymous with an understated style that has always anticipated, and often dictated, new trends. Prada sunglasses use only the finest materials to strike the ideal balance of form and function.",
+            "price": 396.00,
+            "images": ["https://l1nq.com/OydQA", "https://l1nq.com/OYwas", "https://encr.pw/wAEbf"], 
+            "category_id": 2
+        },
+        {
+            "id": 19,
+            "title": "PRADA / PR 12YS",
+            "description": "The hallmark styling of this world-renowned fashion leader denotes high quality with a dedication to innovation and a strong tradition of craftsmanship. Prada is synonymous with an understated style that has always anticipated, and often dictated, new trends. Prada sunglasses use only the finest materials to strike the ideal balance of form and function.",
+            "price": 238.50,
+            "images": ["https://encr.pw/sd99T", "https://l1nq.com/fsuBv", "https://encr.pw/daWy4"], 
+            "category_id": 2
+        },
+        {
+            "id": 20,
+            "title": "RAY-BAN / RB0316S",
+            "description": "Born out of necessity in 1937, Ray-ban has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves.",
+            "price": 107.20,
+            "images": ["https://encr.pw/yZXyE", "https://acesse.dev/i3Ydq", "https://encr.pw/giIw6"], 
+            "category_id": 2
+        },
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "id": 21,
+            "title": "Tiffany & Co. / TF3095",
+            "description": "Tiffany Eyewear echoes the spirit of the House’s jewelry collections, its heritage of craftsmanship and 180-year legacy of innovation. With an array of classic to contemporary styles, every pair of Tiffany Eyewear arrives in the famous Tiffany Blue Box.",
+            "price": 306.40,
+            "images": ["https://acesse.dev/lYgoh", "https://encr.pw/1atn8", "https://l1nq.com/zmT4a"], 
+            "category_id": 3
+        },
+        {
+            "id": 22,
+            "title": "RALPH LAUREN / RL7079",
+            "description": "With a range of designs - from vintage looks and classic aviators to glamorous oversized shapes - the Ralph Lauren collection gives the modern woman striking ways to make her own style statement. The finest, most luxurious materials combined with iconic brand elements (such as the RL logo) make the eyewear collection unmistakably Ralph Lauren.",
+            "price": 178.40,
+            "images": ["https://acesse.dev/n3lft", "https://l1nq.com/rnAmL", "https://l1nq.com/vQIOH"], 
+            "category_id": 3
+        },
+        {
+            "id": 23,
+            "title": "DOLCE&GABBANA / DG4448",
+            "description": "Craftsmanship, refinement and timeless elegance: the Dolce&Gabbana Sunglasses stand out for their unmistakable style, where attention to detail and quality of materials are combined with Made in Italy creativity.",
+            "price": 204.80,
+            "images": ["https://acesse.dev/wi23H", "https://encr.pw/fQqmr", "https://l1nq.com/ok7VT"], 
+            "category_id": 3
+        },
+        {
+            "id": 24,
+            "title": "GIORGIO ARMANI / AR6153",
+            "description": "The Giorgio Armani Collection was launched in 1975 when the fashion designer redefined the standards of men's design. He revolutionized the proportions for maximum fluidity and elegance. Since then, the line has continued to evolve, its style having an aesthetic appeal but never pretentious. Elegant, modern and refined, the Giorgio Armani collection is remarkable for the excellent quality of its materials, the attention to detail that goes into it and the purity of its design.",
+            "price": 281.60,
+            "images": ["https://encr.pw/7ozrE", "https://encr.pw/zEPXL", "https://acesse.dev/DgrHH"], 
+            "category_id": 3
+        },
+        {
+            "id": 25,
+            "title": "SWAROVSKI / SK7011",
+            "description": "A wardrobe essential, meticulously crafted Swarovski sunglasses make it mesmerizing. Catching the light with dazzling crystal embellishments, they're the secret to effortless glamour.",
+            "price": 360.00,
+            "images": ["https://l1nq.com/phYtG", "https://l1nq.com/vqFdG", "https://acesse.dev/VVMvV"], 
+            "category_id": 3
+        },
+        {
+            "id": 26,
+            "title": "VERSACE / VE2257",
+            "description": "Versace is distinguished by its strength of character, innovative use of new, unexpected materials, and varying style of inspiration and performance. The Versace sunglass collection is an elegantly designed line of distinctive eyewear available in unisex designs for those who choose to express their strength, confidence, and uniqueness through a bold and distinctive personal style.",
+            "price": 204.80,
+            "images": ["https://l1nq.com/qJr5r", "https://encr.pw/KJFPR", "https://acesse.dev/nEBJC"], 
+            "category_id": 3
+        },
+        {
+            "id": 27,
+            "title": "SWAROVSKI / SK7003",
+            "description": "A wardrobe essential, meticulously crafted Swarovski sunglasses make it mesmerizing. Catching the light with dazzling crystal embellishments, they're the secret to effortless glamour.",
+            "price": 174.40,
+            "images": ["https://encr.pw/0JeeB", "https://acesse.dev/cKtwu", "https://acesse.dev/jNsT1"], 
+            "category_id": 3
+        },
+        {
+            "id": 28,
+            "title": "BURBERRY / BE3143",
+            "description": "Burberry, British luxury since 1856. A global brand with a rich British heritage.Founded in 1856 and underpinnedby a passion for the outdoors,the brand epitomises modern British luxury and is known for its iconic house codes and signature pieces.Guided by Chief Creative Officer Daniel Lee.",
+            "price": 188.80,
+            "images": ["https://l1nq.com/YUzFt", "https://encr.pw/nIXi4", "https://encr.pw/Kw973"], 
+            "category_id": 3
+        },
+        {
+            "id": 29,
+            "title": "RALPH / RA5306U",
+            "description": "Ralph Eyewear is a youthful expression of the Ralph Lauren spirit, featuring timeless shapes and vibrant colors with a feminine, carefree sense of style.",
+            "price": 62.40,
+            "images": ["https://l1nq.com/GFeyT", "https://l1nq.com/B2T4l", "https://acesse.dev/DDnMH"], 
+            "category_id": 3
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "id": 30,
+            "title": "MAUI JIM / Local Kine",
+            "description": "Maui Jim Sunglasses feature polarised Plus 2 technology, which wipes out glare and stokes the colour with a patented multi-layer design. The lenses feature three rare earth elements, which maximize the transmission of the colours your eyes see naturally. The result is visual acuity, contrast, and colour that is unrivaled.",
+            "price": 233.00,
+            "images": ["https://l1nq.com/eiDBn", "https://acesse.dev/7xcGT", "https://encr.pw/D0sGG"], 
+            "category_id": 4
+        },
+        {
+            "id": 31,
+            "title": "OAKLEY / OO9471",
+            "description": "Devoted to making the best sunglasses on the planet by letting invention lead the way. With a passion to reinvent from scratch, Oakley sunglasses defy convention and set the standard for design, performance, and protection by wrapping innovation in art.",
+            "price": 228.00,
+            "images": ["https://acesse.dev/s3Pj0", "https://l1nq.com/RWoGC", "https://l1nq.com/jRgS4"], 
+            "category_id": 4
+        },
+        {
+            "id": 32,
+            "title": "OAKLEY / OO9019",
+            "description": "Devoted to making the best sunglasses on the planet by letting invention lead the way. With a passion to reinvent from scratch, Oakley sunglasses defy convention and set the standard for design, performance, and protection by wrapping innovation in art.",
+            "price": 168.00,
+            "images": ["https://encr.pw/HmhiT", "https://l1nq.com/hSNUq", "https://acesse.dev/hmxQQ"], 
+            "category_id": 4
+        },
+        {
+            "id": 33,
+            "title": "PRADA LINEA ROSSA / PS 03XS",
+            "description": "Research, technology and design. Technically advanced products that marry elegance and attention to detail, with a high level of comfort for both lifestyle and sports environments: this is the Prada Linea Rossa Eyewear approach.",
+            "price": 253.00,
+            "images": ["https://acesse.dev/p9q7K", "https://acesse.dev/9hh8m", "https://l1nq.com/EVVnp"], 
+            "category_id": 4
+        },
+        {
+            "id": 34,
+            "title": "SCUDERIA FERRARI / FZ6007U",
+            "description": "Inspired by race car design, the history of the Prancing Horse logo is closely linked to Scuderia Ferrari. A lifelong passion unites wearers and creates a unique sense of belonging. Ferrari's racing spirit lives on in emotions that transcend the road and the track, ultimately becoming an authentic attitude toward life. Born from the spirit of competition, Scuderia Ferrari appeals to sports enthusiasts looking for eyewear styles that combine urban active and athleisure.",
+            "price": 123.00,
+            "images": ["https://acesse.dev/MHyH2", "https://acesse.dev/FU0f8", "https://encr.pw/rmtz2"], 
+            "category_id": 4
+        },
+        {
+            "id": 35,
+            "title": "FERRARI / FH1010TD",
+            "description": "Founded in 1947, Ferrari is known for its high-performance cars and iconic elegance. The ongoing quest for lasting firsts is what fuels Ferrari. Combining revolutionary technological solutions with exceptional artisanal craftsmanship enables the brand to innovate and create exclusive icons that stay timeless in a fast-changing world. From racing car curves to iconic Ferrari logos, the new Ferrari Eyewear collection reflects the storybehind the brand’s heritage and design journey.",
+            "price": 535.00,
+            "images": ["https://acesse.dev/i6kbi", "https://acesse.dev/9juw2", "https://encr.pw/4effG"], 
+            "category_id": 4
+        },
+        {
+            "id": 36,
+            "title": "RAY-BAN / RB4414M",
+            "description": "Born out of necessity in 1937, Ray-ban has been at the leading edge of developing high quality sunglasses to protect pilots from the sun's harsh rays. Since then, Ray-Ban has been the eyewear of choice for visionaries and cultural creators everywhere to express their fearless and most authentic selves.",
+            "price": 232.00,
+            "images": ["https://acesse.dev/Fl2x9", "https://encr.pw/4LDfY", "https://l1nq.com/1tmPW"], 
+            "category_id": 4
+        },
+        {
+            "id": 37,
+            "title": "OAKLEY / OO9471",
+            "description": "Devoted to making the best sunglasses on the planet by letting invention lead the way. With a passion to reinvent from scratch, Oakley sunglasses defy convention and set the standard for design, performance, and protection by wrapping innovation in art.",
+            "price": 228.00,
+            "images": ["https://acesse.dev/AAD3Z", "https://acesse.dev/NnXeH", "https://l1nq.com/sD2NO"], 
+            "category_id": 4
+        },
+        {
+            "id": 38,
+            "title": "COSTA / 6S2002",
+            "description": "Born On the Water® in the fishing capital of the world, Costa sunglasses are made for those who don't just spend their lives on the water, they come to life on the water. Each pair is packed with polarized, color-enhancing 580® lens technology. The result? Less haze and enhanced contrast and clarity. Available in glass (580G) for superior clarity and scratch resistance or a lightweight, impact-resistant polycarbonate (580P), it's like seeing in high-definition. Experience sunglasses for life's great adventures.",
+            "price": 219.00,
+            "images": ["https://acesse.dev/npgC2", "https://l1nq.com/PZPkE", "https://encr.pw/liRkE"], 
+            "category_id": 4
+        },
+        {
+            "id": 39,
+            "title": "OAKLEY / OO9248",
+            "description": "Devoted to making the best sunglasses on the planet by letting invention lead the way. With a passion to reinvent from scratch, Oakley sunglasses defy convention and set the standard for design, performance, and protection by wrapping innovation in art.",
+            "price": 168.00,
+            "images": ["https://l1nq.com/KRPTG", "https://l1nq.com/8Xjyu", "https://encr.pw/XsKIk"], 
+            "category_id": 4
+        }
+    ]
 }
